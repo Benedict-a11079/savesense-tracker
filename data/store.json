@@ -1,0 +1,20 @@
+{
+  "transactions": [
+    {
+      "id": "xdk9m1u7mvb8oqge",
+      "title": "monthly salary",
+      "type": "income",
+      "amount": 70000,
+      "category": "Salary",
+      "date": "2026-10-16",
+      "note": "salary day",
+      "createdAt": "2026-10-16T17:26:21.422Z"
+    }
+  ],
+  "goals": [],
+  "budgets": [],
+  "settings": {
+    "currency": "INR",
+    "monthlyIncome": 0
+  }
+}
